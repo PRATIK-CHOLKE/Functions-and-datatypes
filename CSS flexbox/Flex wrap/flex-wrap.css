@@ -1,0 +1,46 @@
+#container {
+    border: 2px solid black;
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.dev {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    height: 30px;
+}
+
+#firstDiv {
+    background-color: greenyellow;
+}
+
+#secondDiv {
+    background-color:green;
+}
+
+#thirdDiv {
+    background-color: goldenrod;
+}
+
+#fourthDiv {
+    background-color: grey;
+}
+
+#fifthDiv {
+    background-color:pink;
+}
+
+#sixthDiv {
+    background-color: red;
+}
+
+#seventhDiv {
+    background-color: violet;
+}
+
+#eighthDiv {
+    background-color: khaki;
+}

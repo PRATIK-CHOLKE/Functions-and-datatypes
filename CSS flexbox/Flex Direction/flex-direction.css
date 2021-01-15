@@ -1,0 +1,24 @@
+#container {
+    border: 2px solid black;
+    display:flex; 
+    flex-direction: row-reverse;
+    display: block;
+}
+
+#firstDiv {
+    background-color:orange;
+}
+
+#secondDiv {
+    background-color:white; 
+}
+
+#thirdDiv {
+    background-color:green;
+}
+
+.dev {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}

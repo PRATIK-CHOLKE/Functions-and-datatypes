@@ -1,0 +1,31 @@
+#container {
+    border: 2px solid grey;
+    display: flex;
+    justify-content: space-around;
+}
+
+#firstDiv {
+    background-color: pink;
+}
+
+#secondDiv {
+    background-color: blue;
+}
+
+#thirdDiv {
+    background-color: red;
+}
+
+#fourthDiv {
+    background-color: orange;
+}
+
+#fifthDiv {
+    background-color: green;
+}
+
+.dev {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}

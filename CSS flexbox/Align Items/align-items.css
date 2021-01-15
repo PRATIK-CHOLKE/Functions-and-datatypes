@@ -1,0 +1,34 @@
+#container {
+    border: 2px solid black;
+    display: flex;
+    height: 300px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.dev {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    height: 40px;
+}
+
+#firstDiv {
+    background-color: green;
+}
+
+#secondDiv {
+    background-color: gray;
+}
+
+#thirdDiv {
+    background-color: pink;
+}
+
+#fourthDiv {
+    background-color: greenyellow;
+}
+
+#fifthDiv {
+    background-color: orange;
+}
